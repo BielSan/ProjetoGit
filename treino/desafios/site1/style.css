@@ -11,39 +11,33 @@ body {
     font-style: normal;
 }
 
-header {
-    background-image: url(imagens/Aatrox_back.jpg);
-}
-
 nav {
-    background-color: rgb(179, 119, 235);
     text-align: center;
     padding: 10px;
 }
 
 nav > a {
+    color: rgb(255, 184, 53);
     text-align: center;
     font-family: "Caveat", cursive;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     text-decoration: none;
-    padding: 5px 20px 5px 20px;
-    border: 2px solid black;
+    padding: 5px 30px 5px 30px;
+    border: 2px solid rgb(255, 184, 53);
 }
 h1 {
-
+    color: rgb(255, 184, 53);
+    font-size: 100px;
+}
+p {
+    font-size: 30px;
+    color: rgb(255, 184, 53);
 }
 
-nav {
-    font-family: Arial, Helvetica, sans-serif;
-}
 
-div.menu {
+div#botoes {
+    background-image: url(imagens/Aatrox_back.jpg);
 
-    display: inline-block;
-    border: 3px solid black;
-    border-radius: 5%;
-    width:200px;
-    height: auto;
 }
