@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(167, 50, 50);
+}
+
+div.menu {
+
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 5%;
+    width:200px;
+    height: auto;
+}
