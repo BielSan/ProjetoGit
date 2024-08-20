@@ -16,5 +16,9 @@ main {
     
     background-color: aliceblue;
 }
+main > ol {
+    text-align: end;
+    
+}
 
 
