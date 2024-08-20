@@ -4,40 +4,5 @@
       
 
 body {
-    text-align: center;
-    font-family: "Caveat", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-}
-
-nav {
-    text-align: center;
-    padding: 10px;
-}
-
-nav > a {
-    color: rgb(255, 184, 53);
-    text-align: center;
-    font-family: "Caveat", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: none;
-    padding: 5px 30px 5px 30px;
-    border: 2px solid rgb(255, 184, 53);
-}
-h1 {
-    color: rgb(255, 184, 53);
-    font-size: 100px;
-}
-p {
-    font-size: 30px;
-    color: rgb(255, 184, 53);
-}
-
-
-div#botoes {
-    background-image: url(imagens/Aatrox_back.jpg);
-
+    background-color: rgb(94, 169, 255);
 }
