@@ -5,13 +5,16 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(94, 169, 255);
+    background-color: rgb(21, 72, 131);
 }
 
 main {
     margin: 100px;
     border: 50px;
     border-radius: 5%;
-    padding: 20px;
+    padding: 50px;
+    
     background-color: aliceblue;
 }
+
+
