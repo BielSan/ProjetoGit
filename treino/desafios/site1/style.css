@@ -25,4 +25,9 @@ main > h1 {
     
 }
 
+main > picture {
+    border: 10px;
+    padding: 10px;
+}
+
 
